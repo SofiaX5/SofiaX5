@@ -1,4 +1,4 @@
-<h2 align="center"> Hi there! :) </h2>
+<h2 align="center"> Hi there! :D </h2>
 
 <div>
 <img align="right" height="150" src="https://i.pinimg.com/736x/ad/4b/06/ad4b0682fcc89dbb3bdb861bcbeca63d.jpg"  />
@@ -9,13 +9,7 @@
 
 - 📌 I’m from Portugal
 
-- 🩷 Reading, playing games and volunteering are some of my favorite activities
-
-<!--
-- ✨ I love to create new things and seeing other people's creations 
-
-- 🌿 
--->
+- ✨ I am very passionate about learning and creating new things.
 
 </div>
 
@@ -54,7 +48,11 @@
 <h2 align="center" > </h2>
 <h3 align="left"> GitHub Statistics </h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SofiaX5&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SofiaX5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=SofiaX5&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SofiaX5&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SofiaX5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+  <img src="https://streak-stats.demolab.com?user=SofiaX5&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+
