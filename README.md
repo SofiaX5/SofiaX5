@@ -1,4 +1,4 @@
-<h2 align="center"> Hi there! :D </h2>
+<h2 align="center"> Hi there! :) </h2>
 
 <div>
 <img align="right" height="150" src="https://i.pinimg.com/736x/ad/4b/06/ad4b0682fcc89dbb3bdb861bcbeca63d.jpg"  />
@@ -40,8 +40,12 @@
 <h2 align="center" > </h2>
 <h3 align="left"> Social </h3>
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sofiaagoncalves25@gmail.com"> 
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/sofiaag05/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 
