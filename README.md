@@ -1,8 +1,6 @@
 <h2 align="center"> Hi there! :) </h2>
 
 <div>
-<img align="right" height="150" src="https://i.pinimg.com/736x/ad/4b/06/ad4b0682fcc89dbb3bdb861bcbeca63d.jpg"  />
-
 <h3 align="left"> My name is Sofia Gonçalves </h3>
 
 - 💻 I’m currently studying Informatic Engineering at **FEUP**
